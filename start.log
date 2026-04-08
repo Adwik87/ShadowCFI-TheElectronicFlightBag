@@ -1,0 +1,8 @@
+
+> efb-dash@0.1.0 start
+> next start --port 3001
+
+▲ Next.js 16.2.2
+- Local:         http://localhost:3001
+- Network:       http://172.19.23.143:3001
+✓ Ready in 147ms
